@@ -37,6 +37,5 @@ public class TriangleTest {
 	public void getPerimeterTest() {
 		Triangle Triangle = new Triangle(1,1,1);
 		assertEquals(3,Triangle.getPerimeter(),0);
-		
-		    }
 	}
+}
